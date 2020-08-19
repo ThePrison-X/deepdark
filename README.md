@@ -29,4 +29,4 @@ Apa yang baru?
 </pre>
 
 
-![](https://raw.githubusercontent.com/alfaridzilinux/deepdark/master/images/Screenshot_20200819_141613.png)
+![](https://raw.githubusercontent.com/alfaridzilinux/deepdark/master/images/Screenshot_20200819_210911.png)
