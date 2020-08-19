@@ -7,6 +7,14 @@ Apa yang baru?
 - Penambahan 6 Tools
 - Tampilan Di Perbaiki 
 
+Tanggal Rilis
+
+- 0.3 > 26 Agustus 2020
+- 0.4 > 3 September 2020
+- 0.5 > 12 September 2020
+
+Note : Hanya jadwal yang di rencanakan
+
 
 # Install
 
