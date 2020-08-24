@@ -6,6 +6,8 @@ Version 0.3 [Dark Inside Version]
 Apa yang baru?
 - Penambahan 10 Tools
 - Perbaikan Bug
+- Penambahan password pada script
+gk tau pwny? dm ig @anakbutuhmeme
 
 Tanggal Rilis
 
