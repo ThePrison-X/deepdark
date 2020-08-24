@@ -1,11 +1,11 @@
 # deepdark
-Deep Dark adalah tools installer yang dikembangkan oleh alfaridzi &amp; yutta di indonesia tools ini masih tahap pengembangan tan masih tahap uji coba.....
+Deep Dark adalah tools installer yang dikembangkan oleh alfaridzi &amp; yutta di indonesia tools ini sudah lewat masa uji coba
 
-Version 0.2 [Black Death Version]
+Version 0.3 [Dark Inside Version]
 
 Apa yang baru?
-- Penambahan 6 Tools
-- Tampilan Di Perbaiki 
+- Penambahan 10 Tools
+- Perbaikan Bug
 
 Tanggal Rilis
 
