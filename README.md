@@ -37,4 +37,4 @@ Note : Hanya jadwal yang di rencanakan
 </pre>
 
 
-![](https://raw.githubusercontent.com/alfaridzilinux/deepdark/master/images/Screenshot_20200819_210911.png)
+![](https://raw.githubusercontent.com/ThePrison-X/deepdark/master/images/Screenshot_20200824_105449.png)
