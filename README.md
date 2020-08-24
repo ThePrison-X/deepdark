@@ -9,8 +9,8 @@ Apa yang baru?
 
 Tanggal Rilis
 
-- 0.3 > 25 Agustus 2020
-- 0.4 > 30 Agustus 2020
+- 0.3 > 24 Agustus 2020
+- 0.4 > 29 Agustus 2020
 - 0.5 > 5 September 2020
 
 Note : Hanya jadwal yang di rencanakan
