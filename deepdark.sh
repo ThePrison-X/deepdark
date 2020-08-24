@@ -380,6 +380,7 @@ pip3 install -r requirements.txt
 25) figlet "Installing"
 cd $HOME
 apt install nmap
+nmap
 
 ;;
 
@@ -387,5 +388,4 @@ apt install nmap
 sleep 3
 echo $red "Exiting.... "
 esac
-esac
-done
+
