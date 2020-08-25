@@ -12,8 +12,8 @@ gk tau pwny? dm ig @anakbutuhmeme
 Tanggal Rilis
 
 - 0.3 > 24 Agustus 2020
-- 0.4 > 29 Agustus 2020
-- 0.5 > 5 September 2020
+- 0.4 > 26 Agustus 2020
+- 0.5 > 1 September 2020
 
 Note : Hanya jadwal yang di rencanakan
 
