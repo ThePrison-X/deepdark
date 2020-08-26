@@ -1,12 +1,11 @@
 # deepdark
 Deep Dark adalah tools installer yang dikembangkan oleh alfaridzi &amp; yutta di indonesia tools ini sudah lewat masa uji coba
 
-Version 0.3 [Dark Inside Version]
+Version 0.4 [ Black Inside Version]
 
 Apa yang baru?
-- Penambahan 10 Tools
+- Penambahan 5 Tools
 - Perbaikan Bug
-- Penambahan password pada script
 gk tau pwny? dm ig @anakbutuhmeme
 
 Tanggal Rilis
