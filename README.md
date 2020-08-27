@@ -6,7 +6,8 @@ Version 0.4 [ Black Inside Version]
 Apa yang baru?
 - Penambahan 5 Tools
 - Perbaikan Bug
-gk tau pwny? dm ig @anakbutuhmeme
+
+Note : gk tau pwny? dm ig @anakbutuhmeme 
 
 Tanggal Rilis
 
