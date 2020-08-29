@@ -40,4 +40,4 @@ Note : Hanya jadwal yang di rencanakan
 </pre>
 
 
-![](https://i.ibb.co/kJVsr77/Screenshot-20200826-141627.png)
+![](https://i.ibb.co/x1Wh6JX/Screenshot-20200829-111642.png)
