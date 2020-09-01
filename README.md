@@ -6,17 +6,17 @@ Version 0.5 [ Fight Attack Version]
 Apa yang baru?
 - Penambahan 5 Tools
 - Perbaikan Bug
-- Penambah Python
+- Tampilan Login Di Ubah
 
 Note : gk tau pwny? dm ig @anakbutuhmeme 
 
 Tanggal Rilis
 
-- 0.3 > 24 Agustus 2020
-- 0.4 > 26 Agustus 2020
-- 0.5 > 29 Agustus 2020
-- 0.6 > 5 September 2020
-- 0.7 > 9 September 2020
+- 0.3 > 24 Agustus 2020 [Done]
+- 0.4 > 26 Agustus 2020 [Done]
+- 0.5 > 29 Agustus 2020 [Done]
+- 0.6 > 5 September 2020 [Done]
+- 0.7 > 10 September 2020
 
 Note : Hanya jadwal yang di rencanakan
 
