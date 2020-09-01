@@ -1,7 +1,7 @@
 # deepdark
 Deep Dark adalah tools installer yang dikembangkan oleh alfaridzi &amp; yutta di indonesia tools ini sudah lewat masa uji coba
 
-Version 0.5 [ Fight Attack Version]
+Version 0.6 [ Hidden Attack Version]
 
 Apa yang baru?
 - Penambahan 5 Tools
