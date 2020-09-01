@@ -42,4 +42,4 @@ Note : Hanya jadwal yang di rencanakan
 </pre>
 
 
-![](https://i.ibb.co/x1Wh6JX/Screenshot-20200829-111642.png)
+![](https://raw.githubusercontent.com/ThePrison-X/deepdark/master/images/deepdark06.png)
