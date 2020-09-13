@@ -8,7 +8,7 @@ Apa yang baru?
 - Perbaikan Bug
 - Tampilan Login Di Ubah
 
-Note : gk tau pwny? dm ig @anakbutuhmeme 
+Note : gk tau pwny? dm ig @unamerdp077
 
 Tanggal Rilis
 
