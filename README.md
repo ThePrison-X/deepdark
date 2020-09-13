@@ -6,7 +6,6 @@ Version 0.6 [ Hidden Attack Version]
 Apa yang baru?
 - Penambahan 5 Tools
 - Perbaikan Bug
-- Tampilan Login Di Ubah
 
 Note : gk tau pwny? dm ig @unamerdp077
 
@@ -16,7 +15,7 @@ Tanggal Rilis
 - 0.4 > 26 Agustus 2020 [Done]
 - 0.5 > 29 Agustus 2020 [Done]
 - 0.6 > 5 September 2020 [Done]
-- 0.7 > 10 September 2020
+- 0.7 > 10 September 2020 [Done]
 
 Note : Hanya jadwal yang di rencanakan
 
@@ -42,4 +41,4 @@ Note : Hanya jadwal yang di rencanakan
 </pre>
 
 
-![](https://raw.githubusercontent.com/ThePrison-X/deepdark/master/images/deepdark06.png)
+![](https://i.ibb.co/4TCJJd1/deepdark07.png)
